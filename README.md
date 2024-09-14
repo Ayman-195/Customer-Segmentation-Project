@@ -77,3 +77,5 @@ Using the identified clusters, the data was analyzed to extract meaningful insig
 In this project, unsupervised clustering was performed using KMeans. After dimensionality reduction and cluster analysis, four distinct clusters were identified. These clusters were then profiled based on family structure, income, and spending patterns. The results provide valuable insights that can be used to develop targeted marketing strategies and improve customer engagement.
 
 ![Clusters](https://cityupload.io/2024/09/Clusters.png)
+![Clusters_Income vs Spent](https://cityupload.io/2024/09/Clusters-Income-vs-Spent.png)
+![Clusters_Spent_for_products](https://cityupload.io/2024/09/Clusters-Spent-for-products.png)
